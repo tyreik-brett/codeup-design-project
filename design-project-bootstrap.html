@@ -11,38 +11,81 @@
     <title>Project</title>
 </head>
 <body>
-<div>
-    <!-- Nav Edit -->
-    <nav class="navbar navbar-expand-lg navbar-light ">
 
-        <!-- Container -->
-        <div class="container-fluid row ">
+<!-- Nav Edit -->
+<nav class="navbar navbar-expand-lg d-lg-none navbar-light ">
 
-            <!-- Nav logo -->
-            <a class="navbar-brand me-2 text-center" href="img/logo.png"><img src="img/logo.png"
-                                                                              height="300px"
-                                                                              width="300pxpx" alt="logo"
-                                                                              style="margin-top: -1px;"/></a>
-            <!-- left side hl -->
+    <!-- Container -->
+    <div class="container-fluid row ">
+
+        <!-- Nav logo -->
+        <a class="navbar-brand me-2 text-center" href="img/logo.png"><img src="img/logo.png"
+                                                                          height="300px"
+                                                                          width="300pxpx" alt="logo"
+                                                                          style="margin-top: -1px;"/></a>
+        <!-- left side hl -->
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+                <h2 class="nav-link text-center">Codeup Design</h2>
+            </li>
+        </ul>
+        <!-- right side hl -->
+
+        <!--            align-items-right d-flex *code for bigger screen-->
+
+        <div class=" text-center">
+            <a class="px-3 me-right-2" href="#">SERVICES</a>
+            <a class="px-3 me-right-3" href="#">WORK</a>
+            <a class=" px-3 me-right-3" href="#">BLOG</a>
+            <a class=" px-3 me-right-3" href="#">CONTACT</a>
+        </div>
+    </div>
+</nav>
+
+<!-- Nav DONE -->
+
+<!--nav 2 lg-->
+
+<nav class="navbar navbar-expand-lg d-lg-block d-sm-none navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <h2 class="nav-link text-center">Codeup Design</h2>
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled">Disabled</a>
                 </li>
             </ul>
-            <!-- right side hl -->
-
-            <!--            align-items-right d-flex *code for bigger screen-->
-
-            <div class=" text-center">
-                <a class="px-3 me-right-2" href="#">SERVICES</a>
-                <a class="px-3 me-right-3" href="#">WORK</a>
-                <a class=" px-3 me-right-3" href="#">BLOG</a>
-                <a class=" px-3 me-right-3" href="#">CONTACT</a>
-            </div>
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
         </div>
-    </nav>
-</div>
-<!-- Nav DONE -->
+    </div>
+</nav>
 
 
 <!--2nd container - visual design-->
@@ -248,7 +291,8 @@ Heading for laptop photo
             </svg>
             LAST TWEET
         </p>
-        <p class="text-start">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet architecto commodi corporis libero nesciunt
+        <p class="text-start">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet architecto commodi corporis
+            libero nesciunt
             possimus provident ratione repellat soluta vitae.
             Accusamus adipisci aliquid culpa earum, iusto nesciunt praesentium sunt temporibus!</p>
 
