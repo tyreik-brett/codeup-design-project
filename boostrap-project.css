@@ -79,10 +79,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle5 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle6 {
     background: #DEA03D;
     color: black;
@@ -93,10 +95,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle6 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle7 {
     background: #7CB06C;
     color: black;
@@ -107,10 +111,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle7 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle8 {
     background: #00ABA9;
     color: black;
@@ -121,10 +127,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle8 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle9 {
     background: #E6563B;
     color: black;
@@ -135,10 +143,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle9 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle10 {
     background: #DEA03D;
     color: black;
@@ -149,10 +159,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle10 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle11 {
     background: #7CB06C;
     color: black;
@@ -163,10 +175,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle11 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle12 {
     background: #00ABA9;
     color: black;
@@ -177,10 +191,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle12 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle13 {
     background: #E6563B;
     color: black;
@@ -191,10 +207,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle13 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle14 {
     background: #DEA03D;
     color: black;
@@ -205,10 +223,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle14 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle15 {
     background: #7CB06C;
     color: black;
@@ -219,10 +239,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle15 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle16 {
     background: #00ABA9;
     color: black;
@@ -233,11 +255,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
-
+#circle16 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle17 {
     background: #E6563B;
     color: black;
@@ -248,10 +271,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle17 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle18 {
     background: #DEA03D;
     color: black;
@@ -262,10 +287,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle18 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle19 {
     background: #7CB06C;
     color: black;
@@ -276,10 +303,12 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
 }
-
+#circle19 h5 {
+    font-size: .9em;
+    margin: 0em;
+}
 #circle20 {
     background: #00ABA9;
     color: black;
@@ -290,6 +319,9 @@ Nav
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2px;
     padding: 0px 0px;
+}
+#circle20 h5 {
+    font-size: .9em;
+    margin: 0em;
 }
