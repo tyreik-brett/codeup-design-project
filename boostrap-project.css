@@ -1,0 +1,18 @@
+body {
+    background-color: darkblue;
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0em;
+}
+
+/*Nav*/
+.nav-banner {
+    background-color: white;
+    text-align: center;
+    padding: 0em 0em;
+}
+
+.nav-link
+{
+    font-size: xxx-large;
+}
