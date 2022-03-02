@@ -1,5 +1,4 @@
 * {
-    margin: 0;
     padding: 0;
     margin: 1em 0em;
 }
@@ -69,4 +68,59 @@ Nav
     justify-content: center;
     align-items: center;
     font-size: 25px;
+}
+#circle5 {
+    background: #E6563B;
+    color: black;
+    border-radius: 50%;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2px;
+    padding: 0px 0px;
+}
+
+#circle6 {
+    background: #DEA03D;
+    color: black;
+    border-radius: 50%;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2px;
+    padding: 0px 0px;
+}
+
+#circle7 {
+    background: #7CB06C;
+    color: black;
+    border-radius: 50%;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2px;
+    padding: 0px 0px;
+}
+
+#circle8 {
+    background: #00ABA9;
+    color: black;
+    border-radius: 50%;
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2px;
+    padding: 0px 0px;
 }
