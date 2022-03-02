@@ -4,11 +4,7 @@ body {
     flex-direction: column;
     margin: 1em 0em;
 }
-.circle {
-    border-radius: 50%;
-    width: 100px;
-    height: 100px;
-}
+
 /*Nav*/
 .nav-banner {
     background-color: white;
@@ -19,4 +15,60 @@ body {
 .nav-link
 {
     font-size: xxx-large;
+}
+
+body {
+    background-color: #E6E6E6;
+}
+#circle1 {
+    background: #E6563B;
+    color: white;
+    border-radius: 50%;
+    border: 10px solid white;
+    margin: auto;
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+#circle2 {
+    background: #DEA03D;
+    color: white;
+    border-radius: 50%;
+    border: 10px solid white;
+    margin: auto;
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+#circle3 {
+    background: #7CB06C;
+    color: white;
+    border-radius: 50%;
+    border: 10px solid white;
+    margin: auto;
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+#circle4 {
+    background: #00ABA9;
+    color: white;
+    border-radius: 50%;
+    border: 10px solid white;
+    margin: auto;
+    width: 110px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
 }
