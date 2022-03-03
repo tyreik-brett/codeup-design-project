@@ -348,4 +348,12 @@ p {
     width: auto;
     height: 3px;
 }
-
+/*Example: Hide starting at `min-width: 0`, and then show at the `sm` breakpoint*/
+.hide-on-vs {
+    display: none;
+}
+@media (min-width: 576px) {
+    .hide-on-vs {
+        display: block;
+    }
+}
