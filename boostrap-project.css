@@ -325,3 +325,9 @@ Nav
     font-size: .9em;
     margin: 0em;
 }
+
+.listitems {
+    list-style: none;
+    display: flex;
+    flex-direction: row-reverse;
+}
