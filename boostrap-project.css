@@ -3,6 +3,15 @@
     margin: 1em 0em;
 }
 
+html, body {
+    margin:0;
+    padding:0;
+}
+h1 {
+    margin:0;
+}
+
+
 h1,h2,h3,h4,h5 {
     font-family: 'Anton', sans-serif;
 
@@ -356,4 +365,25 @@ p {
     .hide-on-vs {
         display: block;
     }
+    body
+    {
+        color: #7CB06C;
+    }
+}
+
+#myVideo {
+    /*position: fixed;*/
+    /*right: 0;*/
+    /*bottom: 0;*/
+    min-width: 100%;
+    min-height: 100%;
+    /*width: 100vw;*/
+    /*height: 100vh;*/
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
