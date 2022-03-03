@@ -371,11 +371,15 @@ p {
     }
 }
 
-p, h2,h3,h3
+p, h2,h3
 {
     color: red;
 }
 
+h5
+{
+    color: white;
+}
 
 #myVideo {
     /*position: fixed;*/
