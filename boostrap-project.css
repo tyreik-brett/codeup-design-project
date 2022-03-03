@@ -3,7 +3,13 @@
     margin: 1em 0em;
 }
 
-Nav
+h1,h2,h3,h4,h5 {
+    font-family: 'Anton', sans-serif;
+
+}
+p {
+    font-family: 'Abel', sans-serif;
+}
 .nav-banner {
     background-color: white;
     text-align: center;
